@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/09/21 12:37:21.000.021,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/09/21 12:51:48.000.932,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\User\Documents\teste\Function mais e multiplica\Unit2.dfm</Transaction>
+    <Transaction>2021/09/21 12:51:48.000.932,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\User\Documents\teste\Function mais e multiplica\Unit2.pas</Transaction>
+    <Transaction>2021/09/21 12:51:51.000.462,C:\Users\User\Documents\Embarcadero\Studio\Projects\Project2.dproj=C:\Users\User\Documents\teste\Function mais e multiplica\Project2.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
